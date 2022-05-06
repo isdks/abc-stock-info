@@ -2,11 +2,9 @@
 
 ABC마트 매장 재고 조회를 위한 repository
 
-## store-code.txt
+## 매장코드
 
-https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt
-
-매장코드 정보 입니다.
+[store-code.txt](https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt)
 
 파일에 없는 매장코드는 바코드 번호 검색할 때 매장코드만 바꿔가면서 직접 찾아야합니다.
 
@@ -16,11 +14,9 @@ https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt
 
 store-code.txt 수정하고 pull request 올리셔도됩니다
 
-## item-code.txt
+## 상품코드
 
-https://github.com/ahn7157/abc-stock-info/blob/master/item-code.md
-
-상품코드 정보 입니다.
+[item-code.txt](https://github.com/ahn7157/abc-stock-info/blob/master/item-code.md)
 
 #### 상품코드 찾는 방법
 
@@ -41,6 +37,6 @@ https://github.com/ahn7157/abc-stock-info/blob/master/item-code.md
 3. 하단 메뉴에서 가장우측 클릭
 4. QR/바코드 스캔 배너 클릭
 5. 바코드 번호 직접 입력 클릭
-6. 매장코드 + 00 + 상품코드 입력
+6. [매장코드](https://github.com/ahn7157/abc-stock-info/edit/master/README.md#%EB%A7%A4%EC%9E%A5%EC%BD%94%EB%93%9C) + 00 + [상품코드](https://github.com/ahn7157/abc-stock-info/edit/master/README.md#%EC%83%81%ED%92%88%EC%BD%94%EB%93%9C) 입력
 
    ex) 0281(잠실롯데월드몰점) + 00 + 62981(NIKE AIR MAX 97) = 02810062981

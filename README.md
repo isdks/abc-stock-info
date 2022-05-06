@@ -14,6 +14,8 @@ https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt
 
 <https://github.com/ahn7157/abc-stock-info/discussions/categories/%EB%A7%A4%EC%9E%A5%EC%BD%94%EB%93%9C-%EC%A0%9C%EB%B3%B4>
 
+store-code.txt 수정하고 pull request 올리셔도됩니다
+
 ## item-code.txt
 
 상품코드 정보 입니다.

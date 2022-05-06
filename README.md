@@ -18,6 +18,8 @@ store-code.txt 수정하고 pull request 올리셔도됩니다
 
 ## item-code.txt
 
+https://github.com/ahn7157/abc-stock-info/blob/master/item-code.md
+
 상품코드 정보 입니다.
 
 #### 상품코드 찾는 방법

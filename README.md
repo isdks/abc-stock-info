@@ -10,7 +10,7 @@ https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt
 
 파일에 없는 매장코드는 바코드 번호 검색할 때 매장코드만 바꿔가면서 직접 찾아야합니다.
 
-#### 데이터 확보를 위해 많은 제보 부탁드립니다
+#### #####데이터 확보를 위해 많은 제보 부탁드립니다#####
 
 <https://github.com/ahn7157/abc-stock-info/discussions/categories/%EB%A7%A4%EC%9E%A5%EC%BD%94%EB%93%9C-%EC%A0%9C%EB%B3%B4>
 

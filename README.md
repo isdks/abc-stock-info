@@ -12,7 +12,7 @@ https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt
 
 #### ↓↓↓↓↓데이터 확보를 위해 많은 제보 부탁드립니다↓↓↓↓↓
 
-<https://github.com/ahn7157/abc-stock-info/discussions/1>
+매장코드 제보: https://github.com/ahn7157/abc-stock-info/discussions/1
 
 store-code.txt 수정하고 pull request 올리셔도됩니다
 

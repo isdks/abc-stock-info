@@ -25,7 +25,7 @@ https://github.com/ahn7157/abc-stock-info/blob/master/item-code.md
 #### 상품코드 찾는 방법
 
 1. <https://abcmart.a-rt.com/>에서 상품 검색
-2. 상단 상품코드의 뒤의 5자리 숫자
+2. 상단 상품코드의 뒤 5자리 숫자
 3. 상품 검색이 불가능한 경우 구글링
 
    ex) "abc마트 에어맥스 97 상품코드" 검색

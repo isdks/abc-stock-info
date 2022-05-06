@@ -4,6 +4,8 @@ ABC마트 매장 재고 조회를 위한 repository
 
 ## store-code.txt
 
+https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt
+
 매장코드 정보 입니다.
 
 파일에 없는 매장코드는 바코드 번호 검색할 때 매장코드만 바꿔가면서 직접 찾아야합니다.

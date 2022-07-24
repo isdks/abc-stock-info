@@ -6,18 +6,7 @@ ABC마트 매장 재고 조회를 위한 repository
 
 [store-code.txt](https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt)
 
-#### 매장코드 찾는 방법
-
-- store-code.txt에서 확인
-- 파일에 없는 매장코드는 바코드 번호 검색할 때 매장코드만 바꿔가면서 직접 찾기
-- 매장에 전화해서 매장코드 문의
-- 매장에 방문해서 아무상품 바코드스캔 어플로 바코드 조회 후 앞의 4자리
-
-#### ↓↓↓↓↓데이터 확보를 위해 많은 제보 부탁드립니다↓↓↓↓↓
-
-매장코드 제보: <https://github.com/ahn7157/abc-stock-info/discussions/1>
-
-store-code.txt 수정하고 pull request 올리셔도됩니다
+[매장 종류](https://namu.wiki/w/ABC%EB%A7%88%ED%8A%B8#s-5)
 
 ## 상품코드
 

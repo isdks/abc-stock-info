@@ -4,15 +4,15 @@ ABC마트 매장 재고 조회를 위한 repository
 
 ## 매장코드
 
-[store-code.csv](https://github.com/ahn7157/abc-stock-info/blob/master/store-code.csv)
+[store-code.csv](https://github.com/ahn7157/abc-stock-info/blob/main/store-code.csv)
 
-[store-code.txt](https://github.com/ahn7157/abc-stock-info/blob/master/store-code.txt)
+[store-code.txt](https://github.com/ahn7157/abc-stock-info/blob/main/store-code.txt)
 
 [매장 종류](https://namu.wiki/w/ABC%EB%A7%88%ED%8A%B8#s-5)
 
 ## 상품코드
 
-[item-code.txt](https://github.com/ahn7157/abc-stock-info/blob/master/item-code.md)
+[item-code.txt](https://github.com/ahn7157/abc-stock-info/blob/main/item-code.md)
 
 #### 상품코드 찾는 방법
 

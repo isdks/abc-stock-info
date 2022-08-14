@@ -1,6 +1,7 @@
 ## Nike
 
-62981 Air Max 97
+62981 AIR MAX 97
+81722 AIR FORCE 1 07
 
 ## Adidas
 
